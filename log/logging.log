@@ -1,0 +1,71 @@
+[INFO ] 2017-02-01 15:52:04.379 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 15:52:04.390 [main] FileCitiesReader - File not found
+java.io.FileNotFoundException: cities.txt (Не удается найти указанный файл)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_121]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_121]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_121]
+	at java.io.FileReader.<init>(FileReader.java:72) ~[?:1.8.0_121]
+	at by.htp.game.logic.impl.FileCitiesReader.readCities(FileCitiesReader.java:22) [classes/:?]
+	at by.htp.game.logic.CitiesGame.startGame(CitiesGame.java:23) [classes/:?]
+	at by.htp.game.runner.GameLauncher.main(GameLauncher.java:8) [classes/:?]
+[INFO ] 2017-02-01 15:55:06.193 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 16:40:39.635 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 16:50:19.297 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 16:57:01.549 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 19:43:58.961 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 19:44:43.301 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 19:46:33.131 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 19:47:08.150 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 19:49:03.999 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 19:53:10.546 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 19:54:26.150 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 19:54:47.590 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 19:56:25.880 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 23:37:54.337 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 23:39:39.782 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 23:41:50.009 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 23:48:57.437 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 23:49:36.805 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 23:54:14.944 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-01 23:59:36.644 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-02 00:08:10.220 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-02 00:14:15.925 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-02 00:19:31.493 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 15:44:59.499 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 15:51:49.650 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 15:54:26.024 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 15:58:43.238 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:01:29.066 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:09:59.241 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:12:20.817 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:12:59.672 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:15:31.286 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:16:30.652 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:18:15.855 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:26:35.635 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:27:53.798 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:29:30.149 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:29:56.219 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:37:24.233 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:41:57.472 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:51:27.539 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:53:10.294 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:53:48.154 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:55:54.537 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 16:57:46.693 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 17:01:07.750 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 17:02:43.583 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 17:07:30.753 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 17:07:57.913 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 17:08:13.672 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 17:08:36.547 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 18:10:38.601 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 18:10:38.863 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 18:13:00.103 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-04 18:13:00.196 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-07 07:02:35.083 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-07 07:02:35.148 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-07 07:03:59.608 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-07 07:03:59.686 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-07 07:06:36.557 [main] FileCitiesReader - Cities is read from file
+[INFO ] 2017-02-07 07:06:36.582 [main] FileCitiesReader - Cities is read from file
